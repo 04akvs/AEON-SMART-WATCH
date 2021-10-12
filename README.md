@@ -1,3 +1,2 @@
 # Smart Watch
-
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+https://drive.google.com/file/d/11otpWG3XneUvmgxkgJYV386LIuLafcdt/view
