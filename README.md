@@ -1,4 +1,6 @@
 # Smart Watch
+
+
 This is an application that demonstrates an E-commerce website for purchasing Smart Watches. The application is built using HTML, CSS and Javascript. Users can click on any product to get more information including pricing, reviews and rating and can also provide the feedback to out services.
 
 
@@ -6,10 +8,10 @@ This is an application that demonstrates an E-commerce website for purchasing Sm
 
 # Tech Stack
 
-*HTML
-*CSS
-*JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 
-USER MANUAL
+# USER MANUAL
 https://drive.google.com/file/d/11otpWG3XneUvmgxkgJYV386LIuLafcdt/view
